@@ -1,0 +1,10 @@
+bin/kafka-topics.sh --create --topic btcusd --bootstrap-server localhost:9092
+bin/kafka-topics.sh --create --topic ethusd --bootstrap-server localhost:9092
+bin/kafka-topics.sh --create --topic usdtusd --bootstrap-server localhost:9092
+bin/kafka-topics.sh --create --topic solusd --bootstrap-server localhost:9092
+bin/kafka-topics.sh --create --topic bnbusd --bootstrap-server localhost:9092
+bin/kafka-topics.sh --create --topic eusdcusd --bootstrap-server localhost:9092
+bin/kafka-topics.sh --create --topic xrpusd --bootstrap-server localhost:9092
+bin/kafka-topics.sh --create --topic adausd --bootstrap-server localhost:9092
+bin/kafka-topics.sh --create --topic stethusd --bootstrap-server localhost:9092
+bin/kafka-topics.sh --create --topic dogeusd --bootstrap-server localhost:9092

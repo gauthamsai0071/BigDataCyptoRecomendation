@@ -1,0 +1,10 @@
+bin/kafka-topics.sh --describe --topic tradebtcusd --bootstrap-server localhost:9092
+bin/kafka-topics.sh --describe --topic tradeethusd --bootstrap-server localhost:9092
+bin/kafka-topics.sh --describe --topic tradebnbusd --bootstrap-server localhost:9092
+bin/kafka-topics.sh --describe --topic tradeusdtusd --bootstrap-server localhost:9092
+bin/kafka-topics.sh --describe --topic tradesolusd --bootstrap-server localhost:9092
+bin/kafka-topics.sh --describe --topic tradeusdcusd --bootstrap-server localhost:9092
+bin/kafka-topics.sh --describe --topic tradexrpusd --bootstrap-server localhost:9092
+bin/kafka-topics.sh --describe --topic tradeadausd --bootstrap-server localhost:9092
+bin/kafka-topics.sh --describe --topic tradestethusd --bootstrap-server localhost:9092
+bin/kafka-topics.sh --describe --topic tradedogeusd --bootstrap-server localhost:9092
